@@ -56,7 +56,7 @@
       "Properties" : {
           "InstanceType" : { "Ref" : "InstanceTypeParameter" },
           "ImageId" : "ami-e1768386",
-          "KeyName" : "AVS-PS-Srujana",
+          "KeyName" : "test",
           "SecurityGroupIds" : [{ "Ref" : "SecurityGroupforEC2" }]
         }
       }
